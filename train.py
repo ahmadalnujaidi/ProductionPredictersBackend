@@ -1,6 +1,6 @@
 import os
 # Install required libraries
-os.system('apt install uvicorn joblib openai nest_asyncio pandas numpy scikit-learn')
+os.system('pip install uvicorn joblib openai nest_asyncio pandas numpy scikit-learn')
 
 # Import libraries
 import pandas as pd
